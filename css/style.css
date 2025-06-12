@@ -1,0 +1,10 @@
+body { background-color: #c0c0c0; font-family: "Times New Roman", serif; text-align: center; color: black; }
+.container { width: 1000px; margin: 0 auto; background-color: #ffffff; border: 2px outset #999999; padding: 20px; box-shadow: 5px 5px 10px #666666; }
+h1 { color: #000050; text-shadow: 1px 1px 0px #fff; }
+.nav { background-color: #000050; color: #ffffff; padding: 10px; margin-bottom: 20px; font-weight: bold; border: 2px inset #ffffff; }
+.button { background-color: #e0e0e0; border: 2px outset #a0a0a0; padding: 5px 15px; font-size: 14px; margin: 5px; cursor: pointer; color: black; text-decoration: none; }
+.button:hover { background-color: #45a049; }
+.footer {font-size: 12px; margin-top: 40px; color: #404040; }
+marquee { font-size: 16px; color: red; margin: 10px 0; }
+img { border: 2px solid #000050; margin-top: 10px; }
+a { color: blue; text-decoration: underline; }
